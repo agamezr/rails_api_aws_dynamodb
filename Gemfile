@@ -27,7 +27,7 @@ gem "thruster", require: false
 # Use Rack CORS for handling Cross-Origin Resource Sharing (CORS), making cross-origin Ajax possible
 # gem "rack-cors"
 
-gem 'aws-sdk-rails', '~> 4.0'
+gem 'aws-sdk-rails', '~> 5.1'
 gem 'dotenv-rails'
 gem 'faker'
 
